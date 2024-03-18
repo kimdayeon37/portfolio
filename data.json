@@ -34,6 +34,15 @@
     },
     {
       "id": 1,
+      "name": "Medical Dash",
+      "description": "의료기관 추천 대시보드",
+      "repoUrl": "https://github.com/kimdayeon37/Medical_Dashboard",
+      "isTeam": true,
+      "period": ["2022. 06", "2022. 06"],
+      "stack": ["react", "D3", "Leaflet", "SRS"]
+    },
+    {
+      "id": 2,
       "name": "TeamUp",
       "description": "프로젝트 니즈를 충족시킬 수 있는 팀원 구인 웹 서비스",
       "repoUrl": "https://github.com/kimdayeon37/Team-Up",
@@ -42,7 +51,16 @@
       "stack": ["react", "nodejs", "mysql", "SRS"]
     },
     {
-      "id": 2,
+      "id": 3,
+      "name": "HCI Analytics",
+      "description": "맞춤법 교정 프로토타입 개발 및 개선 사항 연구",
+      "repoUrl": "https://github.com/kimdayeon37/HCI_Prototype",
+      "isTeam": true,
+      "period": ["2022. 11", "2022. 11"],
+      "stack": ["Vue.js", "R"]
+    },
+    {
+      "id": 4,
       "name": "3-Tech",
       "description": "기계번역과 이미지 생성 멀티모달을 활용한 모델서빙",
       "repoUrl": "https://github.com/kimdayeon37/3Tech-WebProject",
@@ -52,7 +70,7 @@
       "stack": ["Vue.js", "FastAPI", "Dalle2", "CoLab"]
     },
     {
-      "id": 3,
+      "id": 5,
       "name": "영화 검색 사이트",
       "description": "OMDb API를 활용한 VanilaJS 영화 검색 애플리케이션",
       "webUrl": "https://api-movie-vanila-js.vercel.app/#/",
