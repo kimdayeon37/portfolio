@@ -1,7 +1,5 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- 📈 AI, 데이터 분석, HCI 연구 등을 적용한 다양한 프로젝트 경험을 통해 **사고를 확장하는 개발자**입니다.
+- 💡 새로운 기술과 도구에 대한 **열정**으로 끊임없이 성장하는 개발자가 되기 위해 노력합니다.
+- 🧑🏻‍💻 FE뿐만 아니라 BE에도 관심사를 넓혀가며 적극적으로 웹 개발의 흥미를 키워갑니다.
+- 🌈 사용성 / 사용자 경험(UX)을 중점으로 **의미있는 가치**를 만들어 나가는 개발자가 되고 싶습니다.
+- 🌱 언제나 배우고, 나누고, 성장하고 싶습니다.
