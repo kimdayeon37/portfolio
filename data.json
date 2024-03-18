@@ -1,107 +1,117 @@
 {
   "resumeTitle": {
-    "title": "Hong Gil Dong"
+    "title": "Kim Da Yeon"
   },
 
   "information": {
-    "name": "홍길동",
+    "name": "김다연",
     "contact": [
-      { "id": 0, "name": "Email", "href": "honggildong@gmail.com", "isEmail": true },
-      { "id": 1, "name": "Github", "href": "https://github.com/honggildong" },
-      { "id": 2, "name": "Blog", "href": "https://velog.io/@honggildong" }
+      { "id": 0, "name": "Email", "href": "kdy37912@gmail.com", "isEmail": true },
+      { "id": 1, "name": "Github", "href": "https://github.com/kimdayeon37" },
+      { "id": 2, "name": "Blog", "href": "https://velog.io/@kimdayeon37" }
     ]
   },
 
   "workExperience": [
     {
       "id": 0,
-      "name": "커피프린스 1호점",
-      "position": "Front-end Engineer",
-      "period": ["2019. 01", "2019. 09"]
-    },
-    {
-      "id": 1,
-      "name": "커피프린스 2호점",
-      "position": "바리스타",
-      "period": ["2022. 01", "now"]
+      "name": "Naonworks",
+      "position": "Web Developer",
+      "period": ["2023. 08", "2024. 01"]
     }
   ],
 
   "project": [
     {
       "id": 0,
-      "name": "첫번째 팀 프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
+      "name": "AID(AI-Desgin)",
+      "description": "국내 에코 크리에이터들과 소비자를 이어주는 1:1 온라인 맞춤형 서비스",
+      "webUrl": "https://www.contestkorea.com/sub/view.php?displayrow=12&int_gbn=1&Txt_sGn=1&Txt_key=all&Txt_word=2022+KPMG+Ideathon&Txt_code1=&Txt_aarea=&Txt_area=&Txt_sortkey=a.int_sort&Txt_sortword=desc&Txt_host=&Txt_actcode=&page=1&str_no=202112140028",
+      "repoUrl": "https://github.com/kimdayeon37/AID-AI-Design",
       "isTeam": true,
-      "period": ["2022. 07", "2022. 09"],
-      "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
+      "period": ["2022. 01", "2022. 02"],
+      "stack": ["Figma", "React-native", "Expo", "Pytorch", "Style-GAN"]
     },
     {
       "id": 1,
-      "name": "첫번째 개인 프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
-      "isTeam": false,
+      "name": "TeamUp",
+      "description": "프로젝트 니즈를 충족시킬 수 있는 팀원 구인 웹 서비스",
+      "repoUrl": "https://github.com/kimdayeon37/Team-Up",
+      "isTeam": true,
       "period": ["2022. 10", "2022. 11"],
-      "stack": ["JavaScript", "HTML/CSS"]
+      "stack": ["react", "nodejs", "mysql", "SRS"]
+    },
+    {
+      "id": 2,
+      "name": "3-Tech",
+      "description": "기계번역과 이미지 생성 멀티모달을 활용한 모델서빙",
+      "repoUrl": "https://github.com/kimdayeon37/3Tech-WebProject",
+      "webUrl": "https://github.com/kimdayeon37/3Tech-AI-Translation-Model",
+      "isTeam": true,
+      "period": ["2022. 09", "2023. 05"],
+      "stack": ["Vue.js", "FastAPI", "Dalle2", "CoLab"]
+    },
+    {
+      "id": 3,
+      "name": "SPTB(Scenario-Protocol-Test-Bed)",
+      "description": "웹 서버와 프로토콜 기반의 시스템 통신",
+      "repoUrl": "https://github.com/kimdayeon37/SPTB-Scenario-based-control-Protocol-Test-Bed-",
+      "isTeam": true,
+      "period": ["2022. 01", "2022. 02"],
+      "stack": ["Vue.js", "Typescirpt", "SpringBoot", "MQTT", "SSE"]
+    },
+    {
+      "id": 4,
+      "name": "영화 검색 사이트",
+      "description": "OMDb API를 활용한 VanilaJS 영화 검색 애플리케이션",
+      "webUrl": "https://api-movie-vanila-js.vercel.app/#/",
+      "repoUrl": "https://github.com/kimdayeon37/API_Movie_VanilaJS",
+      "isTeam": false,
+      "period": ["2023. 08", "2022. 08"],
+      "stack": ["JavaScript", "Typescirpt"]
     }
   ],
 
   "activity": [
     {
       "id": 0,
-      "name": "첫번째 활동",
-      "period": ["2022. 06", "2022. 08"],
-      "description": "첫번째 활동에 대한 간략한 설명"
-    },
-    {
-      "id": 1,
-      "name": "두번째 활동",
-      "period": ["2022. 06", "2022. 08"],
-      "description": "두번째 활동에 대한 간략한 설명"
+      "name": "👩🏻‍🏫 D.Lab Coding Academy instructor",
+      "period": ["2022. 03", "2022. 08"],
+      "description": "코딩 아카데미에서 학생들 교육 지도"
     }
   ],
 
   "education": [
     {
       "id": 0,
-      "name": "첫번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "첫번째 교육에 대한 간략한 설명"
-    },
-    {
-      "id": 1,
-      "name": "두번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "두번째 교육에 대한 간략한 설명"
+      "name": "🎓 광운대학교",
+      "period": ["2020. 03", "2024. 02"],
+      "description": "소프트웨어융합대학 정보융합학부 데이터사이언스 전공"
     }
   ],
 
   "certificate": [
     {
       "id": 0,
-      "name": "TOEIC 1000점",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
+      "name": "ADsP",
+      "date": "2021. 09. 24",
+      "organizer": "한국데이터산업진흥원"
     },
     {
       "id": 1,
-      "name": "OPIC IH",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
+      "name": "SQLD",
+      "date": "2024. 04. 05",
+      "organizer": "KDATA"
     }
   ],
 
   "award": [
     {
       "id": 0,
-      "name": "첫번째 수상",
-      "date": "2019. 07. 28",
-      "organizer": "수여기관",
-      "description": "첫번째 수상에 대한 간략한 설명"
+      "name": "🏆 소프트웨어융합대학 졸업작품 장려상",
+      "date": "2023. 11.21",
+      "organizer": "광운대학교",
+      "description": "기계번역과 멀티모달을 활용한 이미지 생성 모델 개발"
     }
   ]
 }
