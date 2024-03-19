@@ -7,17 +7,15 @@ import Activity from "@/components/Activity";
 import Certificate from "@/components/Certificate";
 import Education from "@/components/Education";
 import Footer from "@/components/Footer";
-import Information from "@/components/Information";
 import Layout from "@/components/Layout";
 import Project from "@/components/Project";
-import ResumeTitle from "@/components/ResumeTitle";
-// import ScrollProgress from "@/components/ScrollProgress";
+ import ScrollProgress from "@/components/ScrollProgress";
 import WorkExperience from "@/components/WorkExperience";
 import { DataProps, InformationProps, ProjectProps, WorkExperienceProps } from "@/types";
 import Award from "@/components/Award";
+import Intro from "@/components/Intro";
 
 const Home: NextPage<DataProps> = ({
-  resumeTitle,
   information,
   workExperience,
   project,
@@ -28,10 +26,9 @@ const Home: NextPage<DataProps> = ({
 }) => {
   return (
     <>
-      {/* <ScrollProgress /> */}
-      <ResumeTitle resumeTitle={resumeTitle} />
+    <Intro />
+      <ScrollProgress />
       <Layout>
-        <Information information={information} />
         <WorkExperience workExperience={workExperience} />
         <Project project={project} />
         <Activity activity={activity} />
