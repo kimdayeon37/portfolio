@@ -56,8 +56,8 @@ section {
 }
 
 h2 {
-	transition: font-size 300ms;
-    font-size: 4vw;
+	transition: font-size 2000ms;
+    font-size: 5vw;
     font-weight: bold;
 	 color: #fff;
 	 background: -webkit-linear-gradient(45deg, #abb0f8, #00ff95 80%);
@@ -111,7 +111,7 @@ h2 {
 			border: 1px solid #fff;
 			border-radius: 50%;
 			animation: pulse 2.5s linear infinite;
-			box-shadow: 0 0 50px 5px rgba(215, 171, 255, 0.43) !important; 
+			box-shadow: 0 0 50px 5px rgba(215, 171, 255, 0.43); 
 		}			
 	}
 	div:nth-child(1), 
@@ -122,15 +122,6 @@ h2 {
 	div:nth-child(1) {
 		transition: transform 0.2s ease-out;
 	}
-	div:nth-child(2) {
-		div {
-			background: #fff;
-		  border-radius: 50%;
-			width: 4px;
-			height: 4px;
-		}
-		transition: transform 0.1s ease-out;
-	}
 }
 
 *[data-animate="true"] {
@@ -138,7 +129,7 @@ h2 {
 }
 
 .animate-slide-down {
-	animation: slide-down 300ms ease-out forwards;
+	animation: slide-down 500ms ease-out forwards;
 }
 
 @keyframes pulse {

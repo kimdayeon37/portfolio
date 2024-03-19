@@ -68,7 +68,7 @@ const IndexPage = () => {
               <a href="#portfolio">About Me</a>
             </li>
             <li>
-              <a href="#motto">MOTTO</a>
+              <a href="#motto">Motto</a>
             </li>
             <li>
               <a href="#achieve">Achieve</a>
@@ -115,9 +115,6 @@ const IndexPage = () => {
       <div id="cursor" className="cursor">
         <div className="ring" ref={ringRef}>
           <div>{/* Border */}</div>
-        </div>
-        <div className="ring">
-          <div>{/* Pointer */}</div>
         </div>
       </div>
     </>

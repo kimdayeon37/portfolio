@@ -44,7 +44,6 @@
 
   blockquote {
     @apply bg-GRAY_LIGHT py-4 px-6 my-2 rounded-md w-full dark:bg-GRAY_EXTRAHEAVY;
-    color:black;
   }
 
   ul,
@@ -56,6 +55,7 @@
     @apply pt-2;
   }
 }
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
 body {
   background-image: 
