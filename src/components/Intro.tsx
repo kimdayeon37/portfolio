@@ -80,8 +80,6 @@ const IndexPage = () => {
       <section id="portfolio">
         <h2 data-animate={true}>Welcome 🙌🏻 Developer DaYeon&#39;s Portfolio.</h2>
         <br />
-        <br />
-        <br />
         <img src="/me.png" alt="프로필 이미지" width={200} height={200} />
         <div className="scroll">
 		<div className="scroll__circle"></div>
