@@ -44,6 +44,7 @@
 
   blockquote {
     @apply bg-GRAY_LIGHT py-4 px-6 my-2 rounded-md w-full dark:bg-GRAY_EXTRAHEAVY;
+    color: #000;
   }
 
   ul,
