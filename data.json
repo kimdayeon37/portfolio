@@ -86,7 +86,13 @@
       "id": 0,
       "name": "👩🏻‍🏫 D.Lab Coding Academy instructor",
       "period": ["2022. 03", "2022. 08"],
-      "description": "코딩 아카데미에서 학생들 교육 지도"
+      "description": "코딩 아카데미에서 초중등 대상 python, scratch, App inventor 교육 지도"
+    },
+    {
+      "id": 1,
+      "name": "🧾 한국정보처리학회 ACK 추계학술대회 및 학부생논문경진대회",
+      "period": ["2022. 11", "2023. 01"],
+      "description": "기계번역-이미지생성 멀티모달 딥러닝 기법 저작물 등록"
     }
   ],
 
