@@ -15,7 +15,7 @@
   "workExperience": [
     {
       "id": 0,
-      "name": "Naonworks",
+      "name": "Naonworks an Ahnlab",
       "position": "Web Developer",
       "period": ["2023. 08", "2024. 01"]
     }
@@ -39,7 +39,7 @@
       "repoUrl": "https://github.com/kimdayeon37/Medical_Dashboard",
       "isTeam": true,
       "period": ["2022. 06", "2022. 06"],
-      "stack": ["react", "D3", "Leaflet", "SRS"]
+      "stack": ["React", "D3", "Leaflet", "SRS"]
     },
     {
       "id": 2,
@@ -48,7 +48,7 @@
       "repoUrl": "https://github.com/kimdayeon37/Team-Up",
       "isTeam": true,
       "period": ["2022. 10", "2022. 11"],
-      "stack": ["react", "nodejs", "mysql", "SRS"]
+      "stack": ["React", "nodejs", "mysql", "SRS"]
     },
     {
       "id": 3,
@@ -57,7 +57,7 @@
       "repoUrl": "https://github.com/kimdayeon37/HCI_Prototype",
       "isTeam": true,
       "period": ["2022. 11", "2022. 11"],
-      "stack": ["Vue.js", "R"]
+      "stack": ["Vue", "R"]
     },
     {
       "id": 4,
@@ -67,16 +67,25 @@
       "webUrl": "https://github.com/kimdayeon37/3Tech-AI-Translation-Model",
       "isTeam": true,
       "period": ["2022. 09", "2023. 05"],
-      "stack": ["Vue.js", "FastAPI", "Dalle2", "CoLab"]
+      "stack": ["Vue", "FastAPI", "Dalle2", "CoLab"]
     },
     {
       "id": 5,
+      "name": "Clone Coding",
+      "description": "스타벅스, 인스타그램, 유튜브, 애플 4가지 웹사이트 클론코딩",
+      "repoUrl": "https://github.com/kimdayeon37/Vue.ts.quasar-CloneCoding_Web",
+      "isTeam": false,
+      "period": ["2023. 02", "2023. 02"],
+      "stack": ["Vue", "Typescirpt", "Quasar", "Sass", "Axios"]
+    },
+    {
+      "id": 6,
       "name": "영화 검색 사이트",
       "description": "OMDb API를 활용한 VanilaJS 영화 검색 애플리케이션",
       "webUrl": "https://api-movie-vanila-js.vercel.app/#/",
       "repoUrl": "https://github.com/kimdayeon37/API_Movie_VanilaJS",
       "isTeam": false,
-      "period": ["2023. 08", "2022. 08"],
+      "period": ["2023. 08", "2023. 08"],
       "stack": ["JavaScript", "Typescirpt"]
     }
   ],
